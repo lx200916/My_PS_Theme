@@ -31,7 +31,7 @@
 
 ![1565669062120](./README.assets/1565669062120.png)
 
-[^透明]:PS:透明度特性由Hyper提供，请自行启用如Hyper-Transparent-Dynamic插件
+PS:透明度特性由Hyper提供，请自行启用如Hyper-Transparent-Dynamic插件
 
 ## Installation
 
