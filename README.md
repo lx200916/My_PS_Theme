@@ -7,9 +7,9 @@
 1.仅支持PowerShell与Windows10平台.
 
 2.需要
-[oh-my-posh]:https://github.com/JanDeDobbeleer/oh-my-posh
+[oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 与
-[Nerd Font]:https://github.com/ryanoasis/nerd-fonts
+[Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 支持.
 
 3.支持用户名,路径,操作系统(除了Windows10也没有其他可能了哇),上条命令执行情况,执行时间等显示.
