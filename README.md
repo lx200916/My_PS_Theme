@@ -2,7 +2,7 @@
 
  A Colorful PS Terminal Theme.
 
-
+基于[dotfiles](https://github.com/spencerwooo/dotfiles)修改.
 
 1.仅支持PowerShell与Windows10平台.
 
