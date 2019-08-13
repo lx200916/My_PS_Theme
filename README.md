@@ -61,4 +61,6 @@ Unblock-File “Path/to/LoveCoding.psm1"
 chcp 437
 chcp 65001
 ```
-
+## Customize 
+您可以修改psm1文件中的MyLove变量值为其他字符串以更改抬头，如改为Miku可显示 I ❤ Miku
+更改utf值可更改特殊图标.
