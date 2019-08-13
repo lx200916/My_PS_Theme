@@ -17,8 +17,7 @@
 4.对git提供支持.
 
 5.需使用第三方终端，如
-
-[Hyper]:https://github.com/zeit/hyper
+[Hyper](https://github.com/zeit/hyper)
 
 
 
@@ -39,7 +38,7 @@
 1.确保已安装并启用oh-my-posh及所需依赖。
 
 2.安装Nerd Font，截图所示为"
-[DroidSansMono]:https://github.com/ryanoasis/nerd-fonts/releases/download/v2.0.0/DroidSansMono.zip
+[DroidSansMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.0.0/DroidSansMono.zip)
 "字体，请下载安装后在终端中设置字体为"DroidSansMono Nerd Font Mono"
 
 3.将项目中"LoveCoding.psm1"下载放入“文档\WindowsPowerShell\Modules\oh-my-posh\\(XXXX)\Themes”目录，并在PowerShell Profile文件中启用
